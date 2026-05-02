@@ -49,7 +49,7 @@ export default function Home() {
       {/* ABOUT */}
       <section className="px-6 pt-20 max-w-3xl mx-auto">
         <p className="text-neutral-300 leading-relaxed">
-          Confuse Them is a post-punk band based in New York City. Frontman Alex Randaccio screams, groans, and shouts the confusion of the digital age over de-tuned guitars, driving bass, and crashing drums. Their clean sound lends a primal urgency to the lyrics of an over-educated loser in a messed-up world: darkly humorous and insistent, as the syllables and images tumble over one another with the manic violence of doomscrolling. Dramatic songcraft and sudden dynamic changes resist the hypnotic potential of infinite scroll, urging audiences to become alert and active during the performance and carry that energy forward into their lives.
+          Confuse Them is a post-punk band based in New York City. Frontman Alex Randaccio screams, groans, and shouts the confusion of the digital age over de-tuned guitars, driving bass, and crashing drums. Their clean sound lends a primal urgency to the lyrics of an over-educated loser in a messed-up world: darkly humorous and insistent, as the syllables and images tumble over one another with the manic violence of doomscrolling. Dramatic songcraft and sudden dynamic changes resist the hypnotic potential of infinite scroll, urging audiences to alertness and action.
           <br /><br />
           The band's influences include Lou Reed, IDLES, Pavement, and Red House Painters.
           <br /><br />
