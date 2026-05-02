@@ -78,10 +78,9 @@ export default function Home() {
         <Gallery />
       </section>
 
-      {/* CONTACT */}
-      <section id="contact" className="px-6 py-20 max-w-3xl mx-auto text-center">
-        <h2 className="text-3xl font-semibold mb-6">Contact</h2>
-        <p className="text-neutral-300 mb-4">For booking inquiries:</p>
+      {/* Booking */}
+      <section id="contact" className="px-6 py-20 max-w-3xl mx-auto text-left">
+        <h2 className="text-3xl font-semibold mb-6">Booking</h2>
         <a href="mailto:confusethemnyc@gmail.com" className="text-lg underline">
           Email
         </a>
