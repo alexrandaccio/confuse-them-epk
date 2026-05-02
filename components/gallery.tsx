@@ -3,13 +3,13 @@
 import { useEffect, useState } from "react";
 
 const images = [
-    "/Alex-scream.jpg",
-    "/Maddie-sing.jpg",
-    "/Tim-bass.jpg",
-    "/KMB-all-guitar.jpg",
-    "/Tim-guitar.jpg",
-    "/Alex-D2C.jpg",
-    "/KMB-all-mix.jpg",
+    "/Alex-scream.JPG",
+    "/Maddie-sing.JPG",
+    "/Tim-bass.JPG",
+    "/KMB-all-guitar.JPG",
+    "/Tim-guitar.JPG",
+    "/Alex-D2C.JPG",
+    "/KMB-all-mix.JPG",
 ];
 
 export default function Gallery() {
